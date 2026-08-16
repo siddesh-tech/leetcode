@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/siddesh-tech/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/siddesh-tech/leetcode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/siddesh-tech/leetcode/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/siddesh-tech/leetcode/tree/master/0258-add-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/siddesh-tech/leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
