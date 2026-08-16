@@ -6,7 +6,6 @@ class Solution:
             while num > 0:
                 res += num % 10
                 num //= 10
-
             num = res
 
         return num
