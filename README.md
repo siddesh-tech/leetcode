@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/siddesh-tech/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/siddesh-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddesh-tech/leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddesh-tech/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/siddesh-tech/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/siddesh-tech/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/siddesh-tech/leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/siddesh-tech/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/siddesh-tech/leetcode/tree/master/0263-ugly-number) |
 | [0509-fibonacci-number](https://github.com/siddesh-tech/leetcode/tree/master/0509-fibonacci-number) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/siddesh-tech/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/siddesh-tech/leetcode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/siddesh-tech/leetcode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/siddesh-tech/leetcode/tree/master/0191-number-of-1-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/siddesh-tech/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
