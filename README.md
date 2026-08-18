@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/siddesh-tech/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/siddesh-tech/leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/siddesh-tech/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/siddesh-tech/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/siddesh-tech/leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/siddesh-tech/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/siddesh-tech/leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/siddesh-tech/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/siddesh-tech/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddesh-tech/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/siddesh-tech/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/siddesh-tech/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/siddesh-tech/leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/siddesh-tech/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
