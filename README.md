@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/siddesh-tech/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/siddesh-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddesh-tech/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/siddesh-tech/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/siddesh-tech/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/siddesh-tech/leetcode/tree/master/0258-add-digits) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/siddesh-tech/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
