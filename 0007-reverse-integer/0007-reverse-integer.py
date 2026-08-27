@@ -4,7 +4,6 @@ class Solution:
             sign = -1
         else:
             sign = 1
-        temp = x 
         x = abs(x)
         res = 0 
         while x >0 :
