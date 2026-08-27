@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/siddesh-tech/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/siddesh-tech/leetcode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/siddesh-tech/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2119-a-number-after-a-double-reversal](https://github.com/siddesh-tech/leetcode/tree/master/2119-a-number-after-a-double-reversal) |
 ## Bit Manipulation
 |  |
 | ------- |
