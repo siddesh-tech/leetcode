@@ -5,4 +5,5 @@ class Solution:
             for nu in nums2:
                 if(num == nu):
                     lis.append(num)
+                    nums2.remove(num)
         return list(set(lis))
