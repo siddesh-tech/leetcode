@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siddesh-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/siddesh-tech/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/siddesh-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/siddesh-tech/leetcode/tree/master/0455-assign-cookies) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/siddesh-tech/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/siddesh-tech/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/siddesh-tech/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/siddesh-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/siddesh-tech/leetcode/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/siddesh-tech/leetcode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/siddesh-tech/leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/siddesh-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/siddesh-tech/leetcode/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/siddesh-tech/leetcode/tree/master/0349-intersection-of-two-arrays) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/siddesh-tech/leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/siddesh-tech/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
